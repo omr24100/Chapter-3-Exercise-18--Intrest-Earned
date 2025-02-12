@@ -2,7 +2,7 @@
 //
 /*
 File Name: Chapter 3 Exercise 18- Intrest Earned
-GitHub URl:
+GitHub URl:https://github.com/omr24100/Chapter-3-Exercise-18--Intrest-Earned.git
 Programmer: Olivia Ruiz
 Date: 2/21/25
 Requirments: Assuming there are no deposits other than the orginal investment,
